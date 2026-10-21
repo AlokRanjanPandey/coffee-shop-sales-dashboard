@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 ## 📸 Dashboard Preview
 
-![Coffee Shop Sales Dashboard](images/dashboard.png)
+![Coffee Shop Sales Dashboard](images/Dashboard.png)
 
 *The dashboard summarizes coffee shop sales performance, monthly sales trends, top-selling products, store-level sales distribution, and interactive filters.*
 This project analyzes coffee shop transaction data to understand sales performance, product demand, store performance, and customer purchasing patterns. It uses Excel and Power BI for data analysis and reporting, alongside an interactive dashboard built with Python, Pandas, Plotly, and Streamlit.
