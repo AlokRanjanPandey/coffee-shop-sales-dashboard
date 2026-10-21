@@ -2,9 +2,6 @@
 
 ## 📌 Project Overview
 ## 📸 Dashboard Preview
-
-## 📸 Dashboard Preview
-
 ![Coffee Shop Sales Dashboard](Dashboard.png)
 
 *The dashboard summarizes coffee shop sales performance, monthly sales trends, top-selling products, store-level sales distribution, and interactive filters.*
